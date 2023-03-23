@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8wmmaoi0wbqn7kkq?svg=true)](https://ci.appveyor.com/project/MAGZSIM/apici)
